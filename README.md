@@ -1,4 +1,10 @@
-# Klient-Server
-Java aplikace klient-server
+# Client-Server
+Java console client-server
 
-aplikace klient server (vlakna + pripojeni na db)
+create second half of 2015
+
+threads + access to remote db
+
+Remote DB is teporary shutdown...
+
+
